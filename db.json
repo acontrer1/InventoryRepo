@@ -1,4 +1,5 @@
-[{
+{
+	"Inventories" : [{
 	"name": "Fruits",
 	"items": [{
 			"name": "Apple",
@@ -53,3 +54,4 @@
 		}
 	]
 }]
+}
