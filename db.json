@@ -1,130 +1,129 @@
 {
-	"Inventories" : [{
-	"name": "Fruits",
-	"items": [{
-			"name": "Apple",
-			"description": "A red fruit.",
-			"quantity": 1,
-			"price": 0.99
-		},
-		{
-			"name": "Orange",
-			"description": "An orange fruit.",
-			"quantity": 1,
-			"price": 1.99
-		},
-		{
-			"name": "Banana",
-			"description": "An yellow fruit.",
-			"quantity": 1,
-			"price": 0.49
-		},
-		{
-			"name": "Grape",
-			"description": "An purple fruit.",
-			"quantity": 1,
-			"price": 3.99
-		}
-	]
-}, {
-	"name": "Vegetables",
-	"items": [{
-			"name": "Carrot",
-			"description": "An orange vegetable.",
-			"quantity": 1,
-			"price": 1.00
-		},
-		{
-			"name": "Lettuce",
-			"description": "A green vegetable.",
-			"quantity": 1,
-			"price": 1.00
-		},
-		{
-			"name": "Mushroom",
-			"description": "A brown vegetable.",
-			"quantity": 1,
-			"price": 1.00
-		},
-		{
-			"name": "Onion",
-			"description": "A white vegetable.",
-			"quantity": 1,
-			"price": 1.00
-		}
-	]
-}, {
-	"name": "Protein",
-	"items": [{
-			"name": "Beef",
-			"description": "Meat from a cow.",
-			"quantity": 1,
-			"price": 1.00
-		},
-		{
-			"name": "Chicken",
-			"description": "Meat from a chicken.",
-			"quantity": 1,
-			"price": 1.00
-		},
-		{
-			"name": "Duck",
-			"description": "Meat from a duck.",
-			"quantity": 1,
-			"price": 1.00
-		},
-		{
-			"name": "Lamb",
-			"description": "Meat from a lamb.",
-			"quantity": 1,
-			"price": 1.00
-		},
-		  {
-			"name": "Pork",
-			"description": "Meat from a pig.",
-			"quantity": 1,
-			"price": 1.00
-		},
-		{
-			"name": "Turkey",
-			"description": "Meat from a turkey.",
-			"quantity": 1,
-			"price": 1.00
-		}
-	]
-}, {
-	"name": "Grains",
-	"items": [{
-			"name": "Banana Bread",
-			"description": "Bread made from bananas.",
-			"quantity": 1,
-			"price": 1.00
-		},
-		{
-			"name": "Pita Bread",
-			"description": "A round flat bread.",
-			"quantity": 1,
-			"price": 1.00
-		},
-		{
-			"name": "Rye bread",
-			"description": "Bread made from rye grain.",
-			"quantity": 1,
-			"price": 1.00
-		},
-		{
-			"name": "White bread",
-			"description": "Bread made from specially-processed wheat flour.",
-			"quantity": 1,
-			"price": 1.00
-		},
-		 {
-			"name": "Wheat bread",
-			"description": "Bread made from wheat flour.",
-			"quantity": 1,
-			"price": 1.00
-		}
-	]
-}
-			]
+	"Inventories": [{
+		"name": "Fruits",
+		"items": [{
+				"name": "Apple",
+				"description": "A red fruit.",
+				"quantity": 1,
+				"price": 0.99
+			},
+			{
+				"name": "Orange",
+				"description": "An orange fruit.",
+				"quantity": 1,
+				"price": 1.99
+			},
+			{
+				"name": "Banana",
+				"description": "An yellow fruit.",
+				"quantity": 1,
+				"price": 0.49
+			},
+			{
+				"name": "Grape",
+				"description": "An purple fruit.",
+				"quantity": 1,
+				"price": 3.99
+			}
+		]
+	}, {
+		"name": "Vegetables",
+		"items": [{
+				"name": "Carrot",
+				"description": "An orange vegetable.",
+				"quantity": 1,
+				"price": 1.00
+			},
+			{
+				"name": "Lettuce",
+				"description": "A green vegetable.",
+				"quantity": 1,
+				"price": 1.00
+			},
+			{
+				"name": "Mushroom",
+				"description": "A brown vegetable.",
+				"quantity": 1,
+				"price": 1.00
+			},
+			{
+				"name": "Onion",
+				"description": "A white vegetable.",
+				"quantity": 1,
+				"price": 1.00
+			}
+		]
+	}, {
+		"name": "Protein",
+		"items": [{
+				"name": "Beef",
+				"description": "Meat from a cow.",
+				"quantity": 1,
+				"price": 1.00
+			},
+			{
+				"name": "Chicken",
+				"description": "Meat from a chicken.",
+				"quantity": 1,
+				"price": 1.00
+			},
+			{
+				"name": "Duck",
+				"description": "Meat from a duck.",
+				"quantity": 1,
+				"price": 1.00
+			},
+			{
+				"name": "Lamb",
+				"description": "Meat from a lamb.",
+				"quantity": 1,
+				"price": 1.00
+			},
+			{
+				"name": "Pork",
+				"description": "Meat from a pig.",
+				"quantity": 1,
+				"price": 1.00
+			},
+			{
+				"name": "Turkey",
+				"description": "Meat from a turkey.",
+				"quantity": 1,
+				"price": 1.00
+			}
+		]
+	}, {
+		"name": "Grains",
+		"items": [{
+				"name": "Banana Bread",
+				"description": "Bread made from bananas.",
+				"quantity": 1,
+				"price": 1.00
+			},
+			{
+				"name": "Pita Bread",
+				"description": "A round flat bread.",
+				"quantity": 1,
+				"price": 1.00
+			},
+			{
+				"name": "Rye bread",
+				"description": "Bread made from rye grain.",
+				"quantity": 1,
+				"price": 1.00
+			},
+			{
+				"name": "White bread",
+				"description": "Bread made from specially-processed wheat flour.",
+				"quantity": 1,
+				"price": 1.00
+			},
+			{
+				"name": "Wheat bread",
+				"description": "Bread made from wheat flour.",
+				"quantity": 1,
+				"price": 1.00
+			}
+		]
+	}]
 }
