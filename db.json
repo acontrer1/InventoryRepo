@@ -1,0 +1,60 @@
+[
+  {
+    name : "Fruits"
+    items : [
+       {
+        name: "Apple",
+        description: "A red fruit.",
+        quantity: 1,
+        price: 0.99
+      },
+      {
+        name: "Orange",
+        description: "An orange fruit.",
+        quantity: 1,
+        price: 1.99
+      },
+      {
+        name: "Banana",
+        description: "An yellow fruit.",
+        quantity: 1,
+        price: 0.49
+      },
+      {
+        name: "Grape",
+        description: "An purple fruit.",
+        quantity: 1,
+        price: 3.99
+      }
+    ]    
+   },
+   {
+    name : "Vegetables"
+    items : [
+       {
+        name: "Carrot",
+        description: "An orange vegetable.",
+        quantity: 1,
+        price: 1.00
+      },
+      {
+        name: "Lettuce",
+        description: "A green vegetable.",
+        quantity: 1,
+        price: 1.00
+      },
+      {
+        name: "Mushroom",
+        description: "A brown vegetable.",
+        quantity: 1,
+        price: 1.00
+      },
+      {
+        name: "Onion",
+        description: "A white vegetable.",
+        quantity: 1,
+        price: 1.00
+      }
+    ]    
+   }
+]
